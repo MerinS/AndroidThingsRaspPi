@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/root/.android/build-cache/e61190c15c178452bc62a63d0bec072d51ce9160/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/root/.android/build-cache/e61190c15c178452bc62a63d0bec072d51ce9160/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/root/.android/build-cache/e61190c15c178452bc62a63d0bec072d51ce9160/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/root/.android/build-cache/e61190c15c178452bc62a63d0bec072d51ce9160/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

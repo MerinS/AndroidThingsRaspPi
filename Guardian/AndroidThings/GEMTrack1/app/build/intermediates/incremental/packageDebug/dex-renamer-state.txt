@@ -1,0 +1,7 @@
+#Tue Jul 04 13:05:25 IST 2017
+base.0=/home/merin/Downloads/GEMTrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_01c564b60c1c22456b670e543209ea3aa2a2c0ef
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/merin/Downloads/GEMTrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_19904926356233dba449a01414ada036f8865723/classes.dex
+base.1=/home/merin/Downloads/GEMTrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_19904926356233dba449a01414ada036f8865723
+file.0=/home/merin/Downloads/GEMTrack1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_01c564b60c1c22456b670e543209ea3aa2a2c0ef/classes.dex

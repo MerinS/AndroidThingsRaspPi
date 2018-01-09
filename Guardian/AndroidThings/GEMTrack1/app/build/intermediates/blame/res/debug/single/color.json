@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/root/.android/build-cache/c31b6c57b576d171ed02dab7313cffa4eb5466b4/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/root/.android/build-cache/c31b6c57b576d171ed02dab7313cffa4eb5466b4/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/root/.android/build-cache/e61190c15c178452bc62a63d0bec072d51ce9160/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/root/.android/build-cache/e61190c15c178452bc62a63d0bec072d51ce9160/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/root/.android/build-cache/c31b6c57b576d171ed02dab7313cffa4eb5466b4/output/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/root/.android/build-cache/e61190c15c178452bc62a63d0bec072d51ce9160/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/root/.android/build-cache/e61190c15c178452bc62a63d0bec072d51ce9160/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/root/.android/build-cache/e61190c15c178452bc62a63d0bec072d51ce9160/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/root/.android/build-cache/e61190c15c178452bc62a63d0bec072d51ce9160/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/root/.android/build-cache/e61190c15c178452bc62a63d0bec072d51ce9160/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/root/.android/build-cache/c31b6c57b576d171ed02dab7313cffa4eb5466b4/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/root/.android/build-cache/e61190c15c178452bc62a63d0bec072d51ce9160/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/root/.android/build-cache/e61190c15c178452bc62a63d0bec072d51ce9160/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/root/.android/build-cache/e61190c15c178452bc62a63d0bec072d51ce9160/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/root/.android/build-cache/e61190c15c178452bc62a63d0bec072d51ce9160/output/res/color/abc_hint_foreground_material_dark.xml"
+    }
+]

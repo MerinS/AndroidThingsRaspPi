@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/interpolator/mr_fast_out_slow_in.xml",
+        "source": "/root/.android/build-cache/d8e637337572d2aa34846721d93fd269c7a5acf8/output/res/interpolator/mr_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/interpolator/mr_linear_out_slow_in.xml",
+        "source": "/root/.android/build-cache/d8e637337572d2aa34846721d93fd269c7a5acf8/output/res/interpolator/mr_linear_out_slow_in.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/merin/Downloads/GEMTrack1/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_cloud_white_48dp.png",
+        "source": "/home/merin/Downloads/GEMTrack1/app/src/main/res/mipmap-xhdpi/ic_cloud_white_48dp.png"
+    },
+    {
+        "merged": "/home/merin/Downloads/GEMTrack1/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/merin/Downloads/GEMTrack1/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]
